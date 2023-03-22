@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'consola';
+  font-display: swap;
+  src: url('consola.ttf') format("truetype");  
+}
+@font-face {
+  font-family: 'FZsong';
+  font-display: swap;
+  src: url('fzsongsimple.ttf') format("truetype");  
+}
+@font-face {
+  font-family: 'kaiti';
+  font-display: swap;
+  src: url('simkai.ttf') format("truetype");  
+}
+@font-face {
+  font-family: 'HWsong';
+  font-display: swap;
+  src: url('hwsong.ttf') format("truetype");  
+}
